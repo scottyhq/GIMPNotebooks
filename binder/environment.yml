@@ -21,7 +21,7 @@ dependencies:
   - qgis
   - rasterio
   - rioxarray
+  - stackstac
   - pip
   - pip:
-    - git+https://github.com/fastice/gimpfunc.git@master
-    - git+https://github.com/gjoseph92/stackstac.git@main
+    - git+https://github.com/scottyhq/gimpfunc.git@master
